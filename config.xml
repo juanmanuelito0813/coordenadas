@@ -29,7 +29,7 @@
     <icon src="res/icons/android/icon-72-hdpi.png" density="hdpi" />
     <icon src="res/icons/android/icon-96-xhdpi.png" density="xhdpi" />
  
-<plugin name="App" value="org.apache.cordova.App"/>
+ 
 <plugin name="Geolocation" value="org.apache.cordova.GeoBroker"/>
 <plugin name="Device" value="org.apache.cordova.Device"/>
 <plugin name="Camera" value="org.apache.cordova.CameraLauncher"/>
